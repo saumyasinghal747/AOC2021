@@ -1,0 +1,3 @@
+[submodule "aoc2023"]
+	path = aoc2023
+	url = https://github.com/saumyasinghal747/aoc2023.git
